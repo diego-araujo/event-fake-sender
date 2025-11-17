@@ -94,3 +94,4 @@ response = requests.post('https://seu-backend.com/api/notificacoes', json=json_d
 - **80** - Nginx (acesso público)
 - **5000** - Flask (interno, acessível apenas via Nginx)
 
+

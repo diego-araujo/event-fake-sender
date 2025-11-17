@@ -1,0 +1,23 @@
+{
+  "tipo": "acidente",
+  "timestamp": "2024-01-15T10:30:00Z",
+  "localizacao": {
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "endereco": "Avenida Paulista, São Paulo"
+  },
+  "severidade": "alta",
+  "descricao": "Acidente envolvendo 2 veículos",
+  "envolvidos": {
+    "veiculos": 2,
+    "feridos": 1,
+    "fatais": 0
+  },
+  "status": "em_atendimento",
+  "servicos_necessarios": [
+    "ambulancia",
+    "policia",
+    "bombeiros"
+  ]
+}
+

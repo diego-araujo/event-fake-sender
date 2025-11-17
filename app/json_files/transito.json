@@ -1,0 +1,17 @@
+{
+  "tipo": "transito",
+  "timestamp": "2024-01-15T10:30:00Z",
+  "localizacao": {
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "endereco": "Avenida Paulista, São Paulo"
+  },
+  "severidade": "media",
+  "descricao": "Congestionamento detectado na via principal",
+  "duracao_estimada": "30 minutos",
+  "alternativas": [
+    "Rua Augusta",
+    "Avenida Rebouças"
+  ]
+}
+

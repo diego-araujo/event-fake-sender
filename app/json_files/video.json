@@ -1,0 +1,23 @@
+{
+  "tipo": "video",
+  "timestamp": "2024-01-15T10:30:00Z",
+  "camera": {
+    "id": "CAM-001",
+    "localizacao": {
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "endereco": "Avenida Paulista, São Paulo"
+    }
+  },
+  "video": {
+    "url": "https://example.com/videos/video_001.mp4",
+    "duracao": 120,
+    "formato": "mp4",
+    "resolucao": "1920x1080"
+  },
+  "eventos_detectados": [
+    "veiculo_parado",
+    "movimento_suspeito"
+  ]
+}
+
